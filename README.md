@@ -73,7 +73,7 @@ I'm a **BS Information Technology student** at Bahria University, currently focu
 
 ## 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/ahmed-javeri" target="_blank">
+<a href="https://www.linkedin.com/in/muhammad-ahmed-1335b0250" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:ahmed.javerri@gmail.com" target="_blank">
